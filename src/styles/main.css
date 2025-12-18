@@ -1,0 +1,11 @@
+.theme-switcher{
+    position: absolute;
+    top: 6px;
+    right: 0px;
+}
+body {
+    background: #d5d5d5;
+}
+html.dark body{
+    background-color: black;
+}
